@@ -1,0 +1,3 @@
+name = Entity Bulk Delete
+description = Delete the entity in bulk.
+core = 7.x
